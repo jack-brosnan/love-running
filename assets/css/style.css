@@ -119,5 +119,15 @@ footer {
     .nav-toggle-label {
         display: none;
     }
+
+    #logo {
+        font-size: 280%;
+        line-height: 75px;
+        margin: 0 0.75rem;
+    }
     
+    main {
+        /* Push main content down to accommodate lager header */
+        margin-top: 79px;
+    }
 }
