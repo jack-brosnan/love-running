@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-**As a** user, **I want to** vote for my preferred time to participate and provide feedback, **so that** the organisers can receive and review my preferences and input from other users.
+As a **[role]** I can **[capability]** so that **[received benefit]**
